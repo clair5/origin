@@ -1,55 +1,36 @@
-# testphplogin12
+# testphplogin
 https://github.com/clair5/testphplogin.git
 
-just login test 
+## just login test 
 (android studio) 
 
-# 제목1
-## 제목2
-### 제목3
-#### 제목4
-##### 제목5
+### login page
+![login1](https://user-images.githubusercontent.com/112450618/223948642-2ee65e0b-6d1d-4501-9046-c580635cc1a0.jpg)
+<id / password>
 
 
-###샾과 제목 사이에 한칸을 띄워야 적용됨 
+### join page
+![join](https://user-images.githubusercontent.com/112450618/223948841-73a3cbb4-af43-40a5-a54e-035e6f61ba93.jpg)
+<id / password / name / age>
 
-줄 바꾸기를 할때는 엔터(Enter) 2번
+### result page
+![result](https://user-images.githubusercontent.com/112450618/223948971-d54eaddd-2145-446d-9359-bbcd4a77a3f0.jpg)
 
-해야한다.
+-------
 
-
-
-# 인덱싱(순서가 있는 목록)
-
-1. 기존에 작성
-2. 하는 방법과
-3. 동일
-
-
-# 구분선 추가 방법
-
----
---
----
-***
-*****
-**
+### 사용 tool
+1. android studio
+2. visual studio code
+3. mysql 
 
 
-# 코드
+#### php code
+1. login.php
+![image](https://user-images.githubusercontent.com/112450618/223949780-38096cf0-5b9d-414c-8c34-5de963ef2c82.png)
 
-밑의 줄은 코드이다.
-
-    private String email;
-    private String number;
-  
-코드 끝.
+2.register.php
+![image](https://user-images.githubusercontent.com/112450618/223949967-beb4d457-cc4d-428c-beeb-b5a72312fadf.png)
 
 
-
-# 하이퍼 링크
-
-1. <> 안에 주소를 작성한다.  <http://www.google.co.kr/>
-2. 이렇게 [구글](http://www.google./) 이름에 링크를 걸 수 있음.
 
 
