@@ -40,8 +40,8 @@ just login test
 
 밑의 줄은 코드이다.
 
-  private String email;
-  private String number;
+    private String email;
+    private String number;
   
 코드 끝.
 
